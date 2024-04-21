@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chani0125&layout=compact&theme=nord&hide_border=true" />
 
 <!--
 **Chani0125/Chani0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
