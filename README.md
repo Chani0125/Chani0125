@@ -1,7 +1,8 @@
 ### Welcom to Mincho_Park's Github 👋
 
 - 🏫 I'm majoring in CS at `Kookmin Univ.`
-- 🌱 I'm learning `AI`
+- 🌱 I'm learning `AI`, `PS`
+- 🎯 My 2024 Goal: `Make Blog`, `Achieve Beakjon Platinum`, `Do AI Project`
 
 ---
 
